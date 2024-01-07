@@ -7,10 +7,10 @@
 
 <div id="badges" align="left">
   <img src="https://img.shields.io/badge/Links:-%237fff00?style=for-the-badge" alt="Links Badge"/>
-  <a href="https://www.linkedin.com/in/rafaelsfa/"><img src="https://img.shields.io/badge/Linkedin-%237fff00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rafaeldasfa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%237fff00?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-HackTheBox-7fff00?style=for-the-badge&logo=HackTheBox&logoColor=white"></a>
-  <a href="https://bcc.dc.ufscar.br/"><img src="https://img.shields.io/badge/-University-7fff00?style=for-the-badge&logo=&logoColor=white" alt="UFSCar"/></a>
+  <a href="https://www.linkedin.com/in/rafaelsfa/"><img src="https://img.shields.io/badge/Linkedin-%237fff00?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="mailto:rafaeldasfa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%237fff00?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail Badge"/></a>
+  <a href=""><img src="https://img.shields.io/badge/-HackTheBox-7fff00?style=for-the-badge&logo=HackTheBox&logoColor=black"></a>
+  <a href="https://bcc.dc.ufscar.br/"><img src="https://img.shields.io/badge/-University-7fff00?style=for-the-badge&logo=&logoColor=black" alt="UFSCar"/></a>
 </div>
 <br/>
 
