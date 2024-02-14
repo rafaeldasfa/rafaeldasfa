@@ -1,7 +1,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%237fff00&size=230&duration=3000&center=false&width=5000&height=500&lines=Hello.;Hello,+friend." align="center" />
 
--  I’m currently a student of Computer Science on Federal University of São Carlos
+-  I’m a student of Computer Science on Federal University of São Carlos;
+-  You can look over my progress on learning algorithms on my Leetcode profile;
 -  I’m currently on a general learning of cybersecurity. Intending to document most of my progress on HackTheBox.
 <br/>
 
